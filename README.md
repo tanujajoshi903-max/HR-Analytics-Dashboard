@@ -5,11 +5,11 @@ This project demonstrates my data analytics skills by building a dynamic HR Anal
 This project features a comprehensive HR Analytics Dashboard designed to help organizations monitor workforce health and understand the key drivers behind employee attrition. By visualizing complex HR data, this tool enables data-driven decision-making to improve employee retention and organizational stability.
 
 ## Key Objective
-  •	Analyze employee attrition
-	•	Understand demographic distribution (age, gender, education)
-	•	Evaluate salary trends
-	•	Identify high-risk attrition areas
-	•	Provide actionable HR insights
+    •	Analyze employee attrition <br />
+	•	Understand demographic distribution (age, gender, education) <br />
+	•	Evaluate salary trends <br />
+	•	Identify high-risk attrition areas <br />
+	•	Provide actionable HR insights <br />
   
 ## Key Performance Indicators
 The dashboard tracks several critical Key Performance Indicators (KPIs):
@@ -37,5 +37,5 @@ Excel - Data Source. <br />
 DAX - Calculations & Measures. <br />
 
 ## Project Structure 
-Data - 
+Data - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/HR_Analytics(2).csv
 
