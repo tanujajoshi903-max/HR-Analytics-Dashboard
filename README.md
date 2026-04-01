@@ -37,7 +37,8 @@ Excel - Data Source. <br />
 DAX - Calculations & Measures. <br />
 
 ## Project Structure 
-Data - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/HR_Analytics(2).csv
-Dashboard - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/HR%20analytics%20Dash.pbit
+Data - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/HR_Analytics(2).csv <br />
+Dashboard - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/HR%20analytics%20Dash.pbit <br />
+Screenshot - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/Screenshot%202026-04-01%20163848.png
 
 
