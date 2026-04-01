@@ -41,4 +41,14 @@ Data - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/HR
 Dashboard - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/HR%20analytics%20Dash.pbit <br />
 Screenshot - https://github.com/tanujajoshi903-max/HR-Analytics-Dashboard/blob/main/Screenshot%202026-04-01%20163848.png
 
+## Dashboard
+<img width="1107" height="626" alt="Screenshot 2026-04-01 163848" src="https://github.com/user-attachments/assets/c98a194a-a22c-4fb8-82dd-bbd5b9365e07" />
+
+
+## Conclusion
+This dashboard provides a comprehensive view of employee attrition and workforce patterns, helping HR teams take proactive actions to improve employee retention and organizational performance.
+
+## Feedback
+I would greatly appreciate any feedback or suggestions to improve this dashboard. Feel free to share your thoughts on the design, insights, or overall presentation.
+
 
